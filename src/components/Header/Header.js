@@ -9,7 +9,7 @@ const Header = () => {
             <div className="header">
         <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
             <div className="container">
-                        <a className="navbar-brand " style={{fontSize:'20px'}} href="#"><FontAwesomeIcon icon={faBookOpen} /></a>
+                        <a className="navbar-brand " style={{fontSize:'20px'}} href="logo"><FontAwesomeIcon icon={faBookOpen} /></a>
                 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                 </button>
